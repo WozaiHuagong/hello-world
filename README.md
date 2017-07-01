@@ -1,4 +1,2 @@
-# hello-world
-<?php
+﻿# hello-world
   echo "hello world!"；
-?>
